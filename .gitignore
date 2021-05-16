@@ -76,3 +76,5 @@ buildNumber.properties
 .idea/compiler.xml
 .idea/codeStyles/Project.xml
 .idea/codeStyles/codeStyleConfig.xml
+.idea/workspace.xml
+.idea/vcs.xml
